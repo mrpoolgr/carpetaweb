@@ -1,10 +1,12 @@
 {
   "settings": {
-    "currentPage": "index.html",
+    "currentPage": "page2.html",
     "versionFirst": "2.8.4",
     "versionPublish": "2.9.6",
     "name": "reel",
-    "favicon": "@PROJECT_PATH@/assets/images/12736434-10153164804276887-1379086909-n-676x644-91.jpg"
+    "favicon": "@PROJECT_PATH@/assets/images/12736434-10153164804276887-1379086909-n-676x644-91.jpg",
+    "publishType": "local",
+    "publishPath": "file:///C:/Users/gatos/Desktop/Pool%20Web%20Final"
   },
   "pages": {
     "index.html": {
